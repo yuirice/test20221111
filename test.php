@@ -10,5 +10,4 @@ echo "456" . "new";
 
 echo "..."
 echo "1234";
-echo "123"
 ?>
